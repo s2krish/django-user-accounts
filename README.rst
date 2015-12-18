@@ -4,7 +4,7 @@ Django User Accounts
 
 Forked from `django-user-accounts`_, I just added Pinax independent templates.
 
-Pinax enforce to use `pinax-theme-bootstrap`_ for this module. Since pinax-theme-bootstrap alwyas do not fits in all project, I decided to extract user-accounts related templates.
+Pinax enforce to use `pinax-theme-bootstrap`_ for this module. Since pinax-theme-bootstrap alwyas do not fits in all project, I decided to extract user-accounts related templates and forked new repo that includes templates.
 
 
 .. _django-user-accounts: https://github.com/pinax/django-user-accounts
